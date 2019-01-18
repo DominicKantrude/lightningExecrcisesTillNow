@@ -1,0 +1,22 @@
+.committee{
+padding: 10px;
+border: 1px solid;
+border-radius: 10px;
+
+}
+
+.candidate {
+    background: yellow;
+}
+
+.candidate__affiliation {
+    background-color: red;
+    color: snow;
+}
+
+.candidate__name {
+    font-weight: bold;
+    font-size: 2px;
+
+}
+
